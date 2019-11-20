@@ -2144,6 +2144,11 @@ input, select, textarea {
 		position: relative;
 	}
 
+	.icon-size {
+		width: 50px;
+		height: auto;
+	}
+
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
